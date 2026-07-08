@@ -8,6 +8,13 @@
     <name>Embedded LDAP</name>
     <description>Embedded LDAP</description>
 
+    <developers>
+        <developer>
+            <name>Daniele Mammarella</name>
+            <email>dmammare@redhat.com</email>
+        </developer>
+    </developers>
+
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>

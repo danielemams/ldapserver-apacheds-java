@@ -1,5 +1,9 @@
 package org.ldap.apacheds;
 
+/**
+ * @author Daniele Mammarella <dmammare@redhat.com>
+ */
+
 import org.apache.directory.api.ldap.model.entry.DefaultEntry;
 import org.apache.directory.api.ldap.model.ldif.LdifEntry;
 import org.apache.directory.api.ldap.model.ldif.LdifReader;
